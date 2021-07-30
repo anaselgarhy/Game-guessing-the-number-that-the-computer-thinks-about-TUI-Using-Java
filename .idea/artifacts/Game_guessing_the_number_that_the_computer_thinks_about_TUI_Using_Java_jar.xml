@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Game-guessing-the-number-that-the-computer-thinks-about-TUI-Using-Java:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Game_guessing_the_number_that_the_computer_thinks_about_TUI_Using_Java_jar</output-path>
+    <root id="archive" name="Game-guessing-the-number-that-the-computer-thinks-about-TUI-Using-Java.jar">
+      <element id="module-output" name="Game-guessing-the-number-that-the-computer-thinks-about-TUI-Using-Java" />
+    </root>
+  </artifact>
+</component>
